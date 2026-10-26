@@ -1,0 +1,13 @@
+review_id,review_text,rating,date,product,region,channel
+R001,"The app is easy to use and checkout was very fast.",5,2026-01-04,Mobile App,North,App Store
+R002,"My order arrived three days late and support never replied.",2,2026-01-06,Delivery,West,Email
+R003,"The product quality is excellent, but the price is too high.",4,2026-01-08,Premium Plan,South,Survey
+R004,"I cannot reset my password. The error message is confusing.",2,2026-01-11,Mobile App,East,App Store
+R005,"Please add Apple Pay and more payment options.",3,2026-01-12,Checkout,North,Survey
+R006,"The agent solved my problem quickly and was very helpful.",5,2026-01-14,Support,West,Chat
+R007,"The dashboard is slow to load and sometimes crashes.",2,2026-01-16,Web Dashboard,South,In-app
+R008,"Great value and a smooth onboarding experience.",5,2026-01-19,Premium Plan,East,Survey
+R009,"Tracking updates are missing, so I do not know where my package is.",2,2026-01-22,Delivery,North,Email
+R010,"The new reporting feature is useful, but exports need better formatting.",4,2026-01-25,Web Dashboard,West,In-app
+R011,"I was charged twice for one order. Please refund the duplicate charge.",1,2026-01-28,Checkout,South,Email
+R012,"The support team was friendly, although the wait time was long.",3,2026-01-30,Support,East,Chat

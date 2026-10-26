@@ -1,0 +1,5 @@
+-r requirements.txt
+langchain-core>=0.3
+langchain-ollama>=0.2
+langchain-openai>=0.2
+pydantic>=2.0
